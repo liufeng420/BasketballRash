@@ -1,0 +1,89 @@
+
+huowa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdabi
+  rotate: true
+  xy: 196, 2
+  size: 75, 138
+  orig: 75, 138
+  offset: 0, 0
+  index: -1
+hdatui
+  rotate: false
+  xy: 611, 188
+  size: 74, 169
+  orig: 74, 169
+  offset: 0, 0
+  index: -1
+hxiaobi
+  rotate: false
+  xy: 820, 904
+  size: 140, 111
+  orig: 140, 111
+  offset: 0, 0
+  index: -1
+hxiaotui
+  rotate: false
+  xy: 705, 806
+  size: 113, 209
+  orig: 113, 209
+  offset: 0, 0
+  index: -1
+qdabi
+  rotate: false
+  xy: 705, 478
+  size: 89, 135
+  orig: 89, 135
+  offset: 0, 0
+  index: -1
+qdatui
+  rotate: false
+  xy: 705, 615
+  size: 95, 189
+  orig: 95, 189
+  offset: 0, 0
+  index: -1
+qshoubi
+  rotate: false
+  xy: 820, 808
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+qxiaotui
+  rotate: true
+  xy: 2, 3
+  size: 74, 192
+  orig: 74, 192
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 359
+  size: 701, 656
+  orig: 701, 656
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 79
+  size: 607, 278
+  orig: 607, 278
+  offset: 0, 0
+  index: -1
+
+huowa2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheti-yifu
+  rotate: false
+  xy: 2, 2
+  size: 618, 482
+  orig: 618, 482
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,89 @@
+
+yuanlangse.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdabi
+  rotate: false
+  xy: 616, 274
+  size: 75, 139
+  orig: 75, 139
+  offset: 0, 0
+  index: -1
+hdatui
+  rotate: false
+  xy: 616, 415
+  size: 74, 169
+  orig: 74, 169
+  offset: 0, 0
+  index: -1
+hxiaobi
+  rotate: false
+  xy: 807, 890
+  size: 147, 96
+  orig: 147, 96
+  offset: 0, 0
+  index: -1
+hxiaotui
+  rotate: false
+  xy: 616, 777
+  size: 113, 209
+  orig: 113, 209
+  offset: 0, 0
+  index: -1
+qdabi
+  rotate: true
+  xy: 807, 799
+  size: 89, 135
+  orig: 89, 135
+  offset: 0, 0
+  index: -1
+qdatui
+  rotate: false
+  xy: 616, 586
+  size: 95, 189
+  orig: 95, 189
+  offset: 0, 0
+  index: -1
+qshoubi
+  rotate: true
+  xy: 611, 142
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+qxiaotui
+  rotate: false
+  xy: 731, 794
+  size: 74, 192
+  orig: 74, 192
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 282
+  size: 612, 704
+  orig: 612, 704
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: false
+  xy: 2, 2
+  size: 607, 278
+  orig: 607, 278
+  offset: 0, 0
+  index: -1
+
+yuanlangse2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheti-yifu
+  rotate: false
+  xy: 2, 2
+  size: 618, 482
+  orig: 618, 482
+  offset: 0, 0
+  index: -1

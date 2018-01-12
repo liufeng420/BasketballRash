@@ -1,0 +1,83 @@
+
+nvzhuangdalao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hdabi
+  rotate: false
+  xy: 557, 40
+  size: 75, 139
+  orig: 75, 139
+  offset: 0, 0
+  index: -1
+hdatui
+  rotate: false
+  xy: 557, 181
+  size: 74, 169
+  orig: 74, 169
+  offset: 0, 0
+  index: -1
+hxiaobi
+  rotate: false
+  xy: 633, 254
+  size: 147, 96
+  orig: 147, 96
+  offset: 0, 0
+  index: -1
+hxiaotui
+  rotate: false
+  xy: 902, 750
+  size: 113, 209
+  orig: 113, 209
+  offset: 0, 0
+  index: -1
+qdabi
+  rotate: false
+  xy: 914, 228
+  size: 89, 135
+  orig: 89, 135
+  offset: 0, 0
+  index: -1
+qdatui
+  rotate: false
+  xy: 902, 559
+  size: 95, 189
+  orig: 95, 189
+  offset: 0, 0
+  index: -1
+qshoubi
+  rotate: false
+  xy: 782, 256
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+qxiaotui
+  rotate: false
+  xy: 902, 365
+  size: 74, 192
+  orig: 74, 192
+  offset: 0, 0
+  index: -1
+sheti-yifu
+  rotate: false
+  xy: 2, 477
+  size: 618, 482
+  orig: 618, 482
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 473, 553
+  orig: 473, 553
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 622, 352
+  size: 607, 278
+  orig: 607, 278
+  offset: 0, 0
+  index: -1
