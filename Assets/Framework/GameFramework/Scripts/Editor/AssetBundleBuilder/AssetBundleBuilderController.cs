@@ -16,7 +16,7 @@ using UnityEngine;
 
 namespace UnityGameFramework.Editor.AssetBundleTools
 {
-    internal sealed partial class AssetBundleBuilderController : Utility.Zip.IZipHelper
+    public sealed partial class AssetBundleBuilderController : Utility.Zip.IZipHelper
     {
         private const string VersionListFileName = "version";
         private const string ResourceListFileName = "list";

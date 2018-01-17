@@ -14,7 +14,7 @@ using System.Xml;
 
 namespace UnityGameFramework.Editor.AssetBundleTools
 {
-    internal partial class AssetBundleBuilderController
+    partial class AssetBundleBuilderController
     {
         private sealed class BuildReport
         {
